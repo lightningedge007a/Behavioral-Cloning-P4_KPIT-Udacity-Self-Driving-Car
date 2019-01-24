@@ -36,7 +36,6 @@ The model.h5 was made in Udacity workspace on keras version 2.0.8 and could be r
 The fit_generator() function is used to train the model instead of fit() which takes batch wise input (size=32) from a generator function (refer to model.py file)
 
 
-==========!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!==!!!!!!!!!!!!!!!!!!!!!!!!!!!1================================
 # R31
 
 This research paper's neural net was implemented with a bit of modifications like adding dropout layers and removing a couple of layers here and there.
